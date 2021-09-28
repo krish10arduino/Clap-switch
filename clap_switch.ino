@@ -1,3 +1,4 @@
+# KRISH THINK
 int Sensor = A0; 
 int clap = 0; 
 long detection_range_start = 0; 
